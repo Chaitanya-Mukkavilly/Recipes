@@ -13,8 +13,12 @@ li{
     font-family: serif;
 }
 
+a:hover{
+    color:#FF5E5B ;
+}
 div{
     text-align: center;
+
 }
 
 #image{
