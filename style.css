@@ -1,0 +1,28 @@
+h1{
+    color: #FF5E5B;
+    font-family:serif;
+    text-align: center;
+}
+body{
+    background-color: #FFFFEA;
+}
+
+li{
+    text-align: center;
+    color: #FF5E5B;
+    font-family: serif;
+}
+
+div{
+    text-align: center;
+}
+
+#image{
+    text-align: center;
+}
+
+h3{
+    color: #FF5E5B;
+    font-family: serif;
+    text-align: center;
+}
